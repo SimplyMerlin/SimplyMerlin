@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 ### Hey, I'm Merlin! 👋
 
 ✨ I'm a 17 year old developer that is interested in programming, music production and video editing.
