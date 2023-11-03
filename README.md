@@ -2,7 +2,7 @@
 
 ### Hey, I'm Merlin! 👋
 
-✨ I'm a 17 year old developer that is interested in programming, music production and video editing.
+✨ I'm a 18 year old developer that is interested in programming, music production and video editing.
 
 🌐 I'm a front-end developer familiar with svelte, next.js, tailwind, and more.
 
